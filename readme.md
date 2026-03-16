@@ -2,103 +2,106 @@
 
 Welcome to my **JavaScript Blog Collection** 🚀  
 
-This repository contains beginner-friendly blogs focused on core JavaScript concepts. Each blog is written in a simple, structured, and practical way to help build a strong foundation in JavaScript.
+This repository contains **beginner-friendly blogs focused on core JavaScript concepts**. Each blog is written in a **simple, structured, and practical way** to help developers build a strong foundation in JavaScript.
 
 ---
 
 ## 📚 Blogs Included
 
-### 1️⃣ JavaScript Operators: The Basics You Need to Know
+### 1️⃣ Understanding Variables and Data Types in JavaScript
 
-🔗 **Blog Link:** [Read Here](#)  
+🔗 **Blog Link:**  
+https://jsblogs-by-ps.hashnode.dev/understanding-variables-and-data-types-in-javascript
 
-Learn about the different types of operators in JavaScript and how they work.
- 
----
-
-### 2️⃣ Control Flow in JavaScript: If, Else, and Switch Explained
-
-🔗 **Blog Link:** [Read Here](#)  
-
-Understand how decision-making works in JavaScript using conditional statements.
+Learn the fundamentals of **JavaScript variables and data types**, including primitive and reference types, and how JavaScript stores and handles data.
 
 ---
 
-### 2️⃣ Control Flow in JavaScript: If, Else, and Switch Explained
+### 2️⃣ JavaScript Operators: The Basics You Need to Know
 
-🔗 **Blog Link:** [Read Here](#)  
+🔗 **Blog Link:**  
+https://jsblogs-by-ps.hashnode.dev/javascript-operators-the-basics-you-need-to-know
 
-Understand how decision-making works in JavaScript using conditional statements.
-
---- 
-
-### 2️⃣ Control Flow in JavaScript: If, Else, and Switch Explained
-
-🔗 **Blog Link:** [Read Here](#)  
-
-Understand how decision-making works in JavaScript using conditional statements.
+Explore the different types of **JavaScript operators** such as arithmetic, comparison, logical, and assignment operators, and understand how they are used in everyday programming.
 
 ---
 
-### 2️⃣ Control Flow in JavaScript: If, Else, and Switch Explained
+### 3️⃣ Control Flow in JavaScript: If, Else, and Switch Explained
 
-🔗 **Blog Link:** [Read Here](#)  
+🔗 **Blog Link:**  
+#
 
-Understand how decision-making works in JavaScript using conditional statements.
-
----
-
-### 2️⃣ Control Flow in JavaScript: If, Else, and Switch Explained
-
-🔗 **Blog Link:** [Read Here](#)  
-
-Understand how decision-making works in JavaScript using conditional statements.
+Understand how **decision-making works in JavaScript** using conditional statements like `if`, `else if`, `else`, and `switch`.
 
 ---
 
-### 2️⃣ Control Flow in JavaScript: If, Else, and Switch Explained
+### 4️⃣ JavaScript Arrays 101
 
-🔗 **Blog Link:** [Read Here](#)  
+🔗 **Blog Link:**  
+#
 
-Understand how decision-making works in JavaScript using conditional statements.
-
----
-
-### 2️⃣ Control Flow in JavaScript: If, Else, and Switch Explained
-
-🔗 **Blog Link:** [Read Here](#)  
-
-Understand how decision-making works in JavaScript using conditional statements.
+Learn what **arrays** are in JavaScript, how to create them, access elements, and work with collections of data efficiently.
 
 ---
 
-### 2️⃣ Control Flow in JavaScript: If, Else, and Switch Explained
+### 5️⃣ Array Methods You Must Know
 
-🔗 **Blog Link:** [Read Here](#)  
+🔗 **Blog Link:**  
+#
 
-Understand how decision-making works in JavaScript using conditional statements.
-
----
-
-### 2️⃣ Control Flow in JavaScript: If, Else, and Switch Explained
-
-🔗 **Blog Link:** [Read Here](#)  
-
-Understand how decision-making works in JavaScript using conditional statements.
+Discover some of the most useful **JavaScript array methods** like `map()`, `filter()`, `reduce()`, `forEach()`, and `find()` that help manipulate and process data easily.
 
 ---
 
-### 2️⃣ Control Flow in JavaScript: If, Else, and Switch Explained
+### 6️⃣ Understanding Objects in JavaScript
 
-🔗 **Blog Link:** [Read Here](#)  
+🔗 **Blog Link:**  
+#
 
-Understand how decision-making works in JavaScript using conditional statements.
+Learn how **objects work in JavaScript**, how to create them, access properties, and organize related data using key-value pairs.
+
+---
+
+### 7️⃣ Understanding Object-Oriented Programming in JavaScript
+
+🔗 **Blog Link:**  
+#
+
+Explore the basics of **Object-Oriented Programming (OOP)** in JavaScript, including classes, objects, constructors, methods, and the concept of encapsulation.
+
+---
+
+### 8️⃣ Function Declaration vs Function Expression: What’s the Difference?
+
+🔗 **Blog Link:**  
+#
+
+Understand the difference between **function declarations and function expressions**, including how they behave with hoisting and when to use each one.
+
+---
+
+### 9️⃣ Arrow Functions in JavaScript: A Simpler Way to Write Functions
+
+🔗 **Blog Link:**  
+#
+
+Learn how **arrow functions** work in JavaScript, their syntax, implicit returns, and how they differ from traditional functions.
+
+---
+
+### 🔟 The Magic of `this`, `call()`, `apply()`, and `bind()` in JavaScript
+
+🔗 **Blog Link:**  
+#
+
+Deep dive into how **`this` works in JavaScript** and how methods like `call()`, `apply()`, and `bind()` help control function context.
 
 ---
 
 ## ⭐ Support
 
 If you find these blogs helpful:
+
 - Star ⭐ the repository  
 - Share it with others  
 - Follow for more JavaScript content  
