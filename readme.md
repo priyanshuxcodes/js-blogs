@@ -29,7 +29,7 @@ Explore the different types of **JavaScript operators** such as arithmetic, comp
 ### 3️⃣ Control Flow in JavaScript: If, Else, and Switch Explained
 
 🔗 **Blog Link:**  
-#
+https://jsblogs-by-ps.hashnode.dev/control-flow-in-javascript-if-else-and-switch-explained
 
 Understand how **decision-making works in JavaScript** using conditional statements like `if`, `else if`, `else`, and `switch`.
 
@@ -38,7 +38,7 @@ Understand how **decision-making works in JavaScript** using conditional stateme
 ### 4️⃣ JavaScript Arrays 101
 
 🔗 **Blog Link:**  
-#
+https://jsblogs-by-ps.hashnode.dev/javascript-arrays-101
 
 Learn what **arrays** are in JavaScript, how to create them, access elements, and work with collections of data efficiently.
 
@@ -47,7 +47,7 @@ Learn what **arrays** are in JavaScript, how to create them, access elements, an
 ### 5️⃣ Array Methods You Must Know
 
 🔗 **Blog Link:**  
-#
+https://jsblogs-by-ps.hashnode.dev/array-methods-you-must-know
 
 Discover some of the most useful **JavaScript array methods** like `map()`, `filter()`, `reduce()`, `forEach()`, and `find()` that help manipulate and process data easily.
 
@@ -56,7 +56,7 @@ Discover some of the most useful **JavaScript array methods** like `map()`, `fil
 ### 6️⃣ Understanding Objects in JavaScript
 
 🔗 **Blog Link:**  
-#
+https://jsblogs-by-ps.hashnode.dev/understanding-objects-in-javascript
 
 Learn how **objects work in JavaScript**, how to create them, access properties, and organize related data using key-value pairs.
 
@@ -65,7 +65,7 @@ Learn how **objects work in JavaScript**, how to create them, access properties,
 ### 7️⃣ Understanding Object-Oriented Programming in JavaScript
 
 🔗 **Blog Link:**  
-#
+https://jsblogs-by-ps.hashnode.dev/understanding-object-oriented-programming-in-javascript
 
 Explore the basics of **Object-Oriented Programming (OOP)** in JavaScript, including classes, objects, constructors, methods, and the concept of encapsulation.
 
@@ -74,7 +74,7 @@ Explore the basics of **Object-Oriented Programming (OOP)** in JavaScript, inclu
 ### 8️⃣ Function Declaration vs Function Expression: What’s the Difference?
 
 🔗 **Blog Link:**  
-#
+https://jsblogs-by-ps.hashnode.dev/function-declaration-vs-function-expression-what-s-the-difference
 
 Understand the difference between **function declarations and function expressions**, including how they behave with hoisting and when to use each one.
 
@@ -83,7 +83,7 @@ Understand the difference between **function declarations and function expressio
 ### 9️⃣ Arrow Functions in JavaScript: A Simpler Way to Write Functions
 
 🔗 **Blog Link:**  
-#
+https://jsblogs-by-ps.hashnode.dev/arrow-functions-in-javascript-a-simpler-way-to-write-functions
 
 Learn how **arrow functions** work in JavaScript, their syntax, implicit returns, and how they differ from traditional functions.
 
@@ -92,7 +92,7 @@ Learn how **arrow functions** work in JavaScript, their syntax, implicit returns
 ### 🔟 The Magic of `this`, `call()`, `apply()`, and `bind()` in JavaScript
 
 🔗 **Blog Link:**  
-#
+https://jsblogs-by-ps.hashnode.dev/the-magic-of-call-apply-and-bind-in-javascript
 
 Deep dive into how **`this` works in JavaScript** and how methods like `call()`, `apply()`, and `bind()` help control function context.
 
