@@ -98,6 +98,15 @@ Deep dive into how **`this` works in JavaScript** and how methods like `call()`,
 
 ---
 
+### 1️⃣1️⃣ JavaScript Promises - TMKOC version
+
+🔗 **Blog Link:**  
+https://call-bind-apply.hashnode.dev/javascript-promises-tmkoc-version
+
+Deep dive into how **`promises` works in JavaScript** and how methods like `all()`, `race()`, and `any()` help control promise.
+
+---
+
 ## ⭐ Support
 
 If you find these blogs helpful:
